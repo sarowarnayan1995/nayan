@@ -1,0 +1,61 @@
+
+
+.header{
+    height: 100px;
+    background-color: red;
+}
+
+.container{
+    overflow: hidden;
+}
+
+.blog{
+    float: left;
+    width: 45%;
+    height: 200px;
+    background-color: aqua;
+}
+
+.contract{
+        float: right;
+        width: 45%;
+        height: 200px;
+        background-color: cornflowerblue;
+}
+
+.container2{
+    overflow: hidden;
+}
+
+.programme{
+    height: 100px;
+    width: 33.33%;
+    float: left;
+}
+
+ .yellow{
+    background-color: yellow;
+ }
+
+ .teal{
+    background-color: teal;
+ }
+
+ .aqua{
+    background-color: aqua;
+ }
+
+
+
+.Programme2{
+
+}
+
+.programme3{
+
+}
+
+.footer{
+    height:100px;
+    background-color: black;
+}
